@@ -176,14 +176,14 @@ Custom learning rate schedule:
 
 Please refer to [the contributing.md file](Contributing.md) for information about how to get involved. We welcome issues, questions, and pull requests. Pull Requests are welcome.
 
-## Maintainers
+## Core contributors / Maintainers
 Huy Nguyen: huyng@verizonmedia.com
+Eric Dodds: eric.mcvoy.dodds@verizonmedia.com
 
-## Contributors
+## Acknowledgements
 
-We thank the following people for the contributions, testing, and feedback on this code:
+We thank the following people for their contributions, testing, and feedback on this code:
 
-* Eric Dodds
 * Jack Culpepper
 * Simao Herdade
 * Kofi Boakye
@@ -191,8 +191,6 @@ We thank the following people for the contributions, testing, and feedback on th
 * Tobias Baumgartner
 * Armin Kappeler
 * Pierre Garrigues
-
-
 
 ## License
 This project is licensed under the terms of the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) open source license. Please refer to [LICENSE](LICENSE) for the full terms.
