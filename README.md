@@ -177,13 +177,13 @@ Custom learning rate schedule:
 Please refer to [the contributing.md file](Contributing.md) for information about how to get involved. We welcome issues, questions, and pull requests. Pull Requests are welcome.
 
 ## Core contributors / Maintainers
-Huy Nguyen: huyng@verizonmedia.com
 Eric Dodds: eric.mcvoy.dodds@verizonmedia.com
 
 ## Acknowledgements
 
 We thank the following people for their contributions, testing, and feedback on this code:
 
+* Huy Nguyen
 * Jack Culpepper
 * Simao Herdade
 * Kofi Boakye
